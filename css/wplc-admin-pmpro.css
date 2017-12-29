@@ -1,0 +1,11 @@
+/**
+ * General elements
+ */
+.pmpro-logo {
+    display: block;
+    position: relative;
+    left: 0px;
+    top:0px;
+    height:40px;
+    width: auto;
+}
